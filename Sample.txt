@@ -1,1 +1,2 @@
 Smart Scheduled Message
+Hi hello
